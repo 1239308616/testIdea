@@ -5,5 +5,6 @@ public class test {
         System.out.println("aaa");
         int b = 2;
         int c = 3;
+        int a = 1;
     }
 }
